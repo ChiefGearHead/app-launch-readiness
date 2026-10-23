@@ -1,0 +1,22 @@
+# OS and editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Never commit secrets or client material
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.p8
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+service-account*.json
+
+# Local scratch
+tmp/
+*.log
