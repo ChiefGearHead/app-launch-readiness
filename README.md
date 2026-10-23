@@ -2,7 +2,7 @@
 
 The 27 checks a senior reviewer runs before any App Store or Google Play submission, with a five-minute way to verify each one. Current as of October 2026.
 
-By Robin Bhattacharyya: 20+ years building app and web architecture, Flutter, Firebase and AWS, with apps shipped on both stores.
+By Robin Bhattacharyya of **Launch Vetted** (an Inginity LLC service): 20+ years building app and web architecture, Flutter, Firebase and AWS, with apps shipped on both stores.
 
 ## Who it is for
 
